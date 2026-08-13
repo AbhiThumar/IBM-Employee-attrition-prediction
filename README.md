@@ -1,6 +1,6 @@
 # Predicting Employee Attrition Using Machine Learning
 
-![Pipeline Flowchart](pipeline_flowchart.png)
+![Pipeline Flowchart](Figures/pipeline_flowchart.png)
 
 ## Overview
 This project presents an end-to-end Machine Learning pipeline designed to predict employee attrition using the **IBM HR Analytics dataset**. Built as part of the **7005SCN Individual Research Project (MSc Data Science, Coventry University)**, the project addresses class imbalance, model interpretability, and algorithmic fairness to provide actionable insights for HR decision-making.
